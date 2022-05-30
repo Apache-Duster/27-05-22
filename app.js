@@ -1,0 +1,4 @@
+/*
+! DOM ( DOCUMENT OBJECT MODEL )
+
+! 1- What is DOM?
